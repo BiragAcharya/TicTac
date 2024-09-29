@@ -18,6 +18,7 @@ let winningPattern = [
 let xTurn = true;
 let count = 0;
 
+
 //Display All Buttons
 const disableButtons = () => {
   btnRef.forEach((element) => (element.disabled = true));
