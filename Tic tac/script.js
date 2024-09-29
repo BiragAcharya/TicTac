@@ -62,6 +62,7 @@ restartBtn.addEventListener("click", () => {
   enableButtons();
 });
 
+
 //Win Logic
 const winChecker = () => {
   //Loop through all win patterns
